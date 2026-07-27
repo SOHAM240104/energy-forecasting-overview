@@ -16,6 +16,8 @@ Walkthrough of the forecasting pipeline, probabilistic price bands, and VPPA sim
 
 <video src="assets/forecasting-demo.mp4" controls width="100%"></video>
 
+**[▶ Watch demo video](assets/forecasting-demo.mp4)** · [Direct link (raw)](https://github.com/SOHAM240104/energy-forecasting-overview/raw/main/assets/forecasting-demo.mp4)
+
 ---
 
 ## Table of Contents
