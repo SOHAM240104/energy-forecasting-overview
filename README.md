@@ -12,9 +12,9 @@ and a retrieval-augmented AI assistant.
 
 ## Demo Video
 
-**[▶ Watch model visualization demo](https://github.com/SOHAM240104/energy-forecasting-overview/blob/main/assets/forecasting-demo.mp4)**
+Walkthrough of the forecasting pipeline, probabilistic price bands, and VPPA simulation outputs.
 
-Walkthrough of the forecasting pipeline, probabilistic price bands, and VPPA simulation outputs. Opens in GitHub’s built-in video player.
+<video src="https://github.com/user-attachments/assets/f7b85480-e607-464c-8410-bb17ba24bacb" controls width="100%"></video>
 
 ---
 
