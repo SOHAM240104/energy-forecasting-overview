@@ -10,22 +10,31 @@ and a retrieval-augmented AI assistant.
 
 ---
 
+## Demo Video
+
+**[▶ Watch model visualization demo](https://github.com/SOHAM240104/energy-forecasting-overview/blob/main/assets/forecasting-demo.mp4)**
+
+Walkthrough of the forecasting pipeline, probabilistic price bands, and VPPA simulation outputs. Opens in GitHub’s built-in video player.
+
+---
+
 ## Table of Contents
 
-1. [Why This Exists](#why-this-exists)
-2. [System at a Glance](#system-at-a-glance)
-3. [Architecture](#architecture)
-4. [Forecasting Pipeline](#forecasting-pipeline)
-5. [Model Stack](#model-stack)
-6. [VPPA Simulation Engine](#vppa-simulation-engine)
-7. [Validation & Accuracy](#validation--accuracy)
-8. [AI Assistant](#ai-assistant)
-9. [Tech Stack](#tech-stack)
-10. [Project Structure](#project-structure)
-11. [Getting Started](#getting-started)
-12. [Training Pipeline](#training-pipeline)
-13. [API Reference](#api-reference)
-14. [Deployment](#deployment)
+1. [Demo Video](#demo-video)
+2. [Why This Exists](#why-this-exists)
+3. [System at a Glance](#system-at-a-glance)
+4. [Architecture](#architecture)
+5. [Forecasting Pipeline](#forecasting-pipeline)
+6. [Model Stack](#model-stack)
+7. [VPPA Simulation Engine](#vppa-simulation-engine)
+8. [Validation & Accuracy](#validation--accuracy)
+9. [AI Assistant](#ai-assistant)
+10. [Tech Stack](#tech-stack)
+11. [Project Structure](#project-structure)
+12. [Getting Started](#getting-started)
+13. [Training Pipeline](#training-pipeline)
+14. [API Reference](#api-reference)
+15. [Deployment](#deployment)
 
 ---
 
